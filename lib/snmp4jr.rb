@@ -73,3 +73,5 @@ module Snmp4JR
     include_package 'org.snmp4j.version'
   end
 end
+
+require 'snmp4jr/manager'
