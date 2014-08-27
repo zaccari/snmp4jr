@@ -75,3 +75,4 @@ module Snmp4JR
 end
 
 require 'snmp4jr/manager'
+require 'snmp4jr/inform'
