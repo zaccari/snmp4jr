@@ -1,4 +1,3 @@
-
 require 'snmp4j-smi-pro.jar'
 
 module Snmp4JR
